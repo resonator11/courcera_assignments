@@ -30,6 +30,14 @@ body{
 	align-content: right;
 }
 
+.navbar-brand{
+	text-align: left;
+}
+
+.navbar-toggle{
+	text-align: right;
+}
+
 
 h1{
 	text-align: center;
